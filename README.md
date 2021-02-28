@@ -30,7 +30,7 @@ After downloading the project
 
 
 
-## To run entire program in one go and right away get analytics info run follwing
+## To run entire program in one go and right away get analytics information:
 * ```Just run the main.py file```
 
 
